@@ -1,0 +1,5 @@
+pip list
+
+pip unistall numpy
+pip install numpy
+pip freeze >requirements.txt
